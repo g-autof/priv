@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">jo_test</string>
+    <string name="your_shop">Your shop</string>
+    <string name="donate">Donate</string>
+    <string name="upgrade">Upgrade</string>
+    <string name="your_money">Your Money:</string>
+    <string name="todo">TODO</string>
+    <string name="prgr_butt_one">Buy</string>
+    <string name="prgr_tcost_one">TextView</string>
+    <string name="click">Click!</string>
+</resources>
